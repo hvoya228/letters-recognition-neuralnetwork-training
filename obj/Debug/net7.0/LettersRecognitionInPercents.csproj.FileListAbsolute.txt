@@ -1,0 +1,15 @@
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\bin\Debug\net7.0\LettersRecognitionInPercents.exe
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\bin\Debug\net7.0\LettersRecognitionInPercents.deps.json
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\bin\Debug\net7.0\LettersRecognitionInPercents.runtimeconfig.json
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\bin\Debug\net7.0\LettersRecognitionInPercents.dll
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\bin\Debug\net7.0\LettersRecognitionInPercents.pdb
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.csproj.AssemblyReference.cache
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.AssemblyInfoInputs.cache
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.AssemblyInfo.cs
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.csproj.CoreCompileInputs.cache
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.dll
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\refint\LettersRecognitionInPercents.dll
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.pdb
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\LettersRecognitionInPercents.genruntimeconfig.cache
+D:\Projects\AI\LettersRecognitionInPercents\LettersRecognitionInPercents\obj\Debug\net7.0\ref\LettersRecognitionInPercents.dll
